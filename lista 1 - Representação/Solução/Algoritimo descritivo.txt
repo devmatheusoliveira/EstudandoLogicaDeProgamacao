@@ -1,0 +1,13 @@
+Aluno: Matheus Santos Oliveira
+Descrição: informar se a pessoa estar acima do peso com base no IMC
+
+Passos:
+
+1- Início
+2- Pedir o peso da pessoa;
+3- A pessoa entrar com o valor do seu peso em Kg;
+4- Pedir a altura da pessoa em metros;
+5- Calcular o IMC através da formula (peso/(altura*altura));
+6- Informar o IMC da pessoa;
+7- Se o IMC for maior que 30 então informe que está acima do peso, se não, a pessoa está no peso ideal;
+8- Fim
